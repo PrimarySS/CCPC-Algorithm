@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Let the Balloon Rise", "Let the Balloon Rise\Let the Balloon Rise.vcxproj", "{8C977E33-F7DE-4CC1-A5C4-257937801749}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FatMouse' Trade", "FatMouse' Trade\FatMouse' Trade.vcxproj", "{4ADBBFE3-A06D-4968-9F4C-D82A8DB3302F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Max Sum", "Max Sum\Max Sum.vcxproj", "{73C81A63-7DDF-4651-9EEF-28A244045270}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Quoit Design", "Quoit Design\Quoit Design.vcxproj", "{161579F9-2942-4453-9932-6241ECDF1E03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C977E33-F7DE-4CC1-A5C4-257937801749}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8C977E33-F7DE-4CC1-A5C4-257937801749}.Debug|Win32.Build.0 = Debug|Win32
+		{8C977E33-F7DE-4CC1-A5C4-257937801749}.Release|Win32.ActiveCfg = Release|Win32
+		{8C977E33-F7DE-4CC1-A5C4-257937801749}.Release|Win32.Build.0 = Release|Win32
+		{4ADBBFE3-A06D-4968-9F4C-D82A8DB3302F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4ADBBFE3-A06D-4968-9F4C-D82A8DB3302F}.Debug|Win32.Build.0 = Debug|Win32
+		{4ADBBFE3-A06D-4968-9F4C-D82A8DB3302F}.Release|Win32.ActiveCfg = Release|Win32
+		{4ADBBFE3-A06D-4968-9F4C-D82A8DB3302F}.Release|Win32.Build.0 = Release|Win32
+		{73C81A63-7DDF-4651-9EEF-28A244045270}.Debug|Win32.ActiveCfg = Debug|Win32
+		{73C81A63-7DDF-4651-9EEF-28A244045270}.Debug|Win32.Build.0 = Debug|Win32
+		{73C81A63-7DDF-4651-9EEF-28A244045270}.Release|Win32.ActiveCfg = Release|Win32
+		{73C81A63-7DDF-4651-9EEF-28A244045270}.Release|Win32.Build.0 = Release|Win32
+		{161579F9-2942-4453-9932-6241ECDF1E03}.Debug|Win32.ActiveCfg = Debug|Win32
+		{161579F9-2942-4453-9932-6241ECDF1E03}.Debug|Win32.Build.0 = Debug|Win32
+		{161579F9-2942-4453-9932-6241ECDF1E03}.Release|Win32.ActiveCfg = Release|Win32
+		{161579F9-2942-4453-9932-6241ECDF1E03}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal
